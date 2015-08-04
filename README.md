@@ -13,4 +13,4 @@ The pin mappings have been slightly changed since the LCsoft board is a 56 pin v
 The Streamer application from cypress can also be used to view the logic analyzed streams. It is still in work in progress, and I am trying
 to get the format to be supported with jawi's OLS client which is available at https://github.com/jawi/ols
 
-Use it in whatever project you like. However I provide no warrant for the software. It is  under the MIT License.
+Use it in whatever project you like. However I provide no warranty for the software. It is  under the MIT License.
